@@ -1,0 +1,1 @@
+gerenciar as interpretações de radiografias
